@@ -1,0 +1,7 @@
+API_TOKEN = ''
+
+DATABASE_NAME = ''
+
+use_proxy = False
+proxy_server = ''
+proxy_port = ''
